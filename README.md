@@ -39,7 +39,8 @@
 
 ### 📫 &nbsp; Como me contatar:
 
-<a href="https://www.linkedin.com/in/jvrss/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/jvrss/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:jv_rss@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook--000?style=social&logo=microsoft-outlook" /></a> &nbsp;
-<a href="https://www.hackerrank.com/SoldierJVX" alt="HackerRank">
-<img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
+<a target="_blank" href="https://www.hackerrank.com/SoldierJVX" alt="HackerRank">
+    <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
+</a>
