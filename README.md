@@ -8,7 +8,7 @@
 🌱 &nbsp; Estou aprimorando minhas habilidades nas tecnologias Spring, Cloud e Angular.\
 ✍️ &nbsp; No meu tempo livre, vejo animes, jogo jogos de corrida, estratégia e simulação. E continuo aprimorando minhas habilidades.\
 ✉️ &nbsp; Meu email para contato é jv_rss@hotmail.com. \
-📄 &nbsp; Você pode ver meu currículo em [Currículo](https://1drv.ms/w/s!AmJ1CpQJCAx5ikkk7BpdtoQXHS4O) para mais detalhes da minha experiencia profissional.
+📄 &nbsp; Você pode ver meu currículo em [Currículo](https://1drv.ms/w/s!AmJ1CpQJCAx5gasFibxZnE8-SCcPqw?e=Tc7UaO) para mais detalhes da minha experiencia profissional.
 
 ### 🛠 &nbsp;Tech Stack
 
