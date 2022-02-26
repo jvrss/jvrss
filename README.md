@@ -23,6 +23,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
 ![Mysql](https://img.shields.io/badge/-MySQL-00000F?logo=mysql)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
@@ -34,8 +35,11 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 ### 📫 &nbsp; Como me contatar:
 
 <a href="https://www.linkedin.com/in/jvrss/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:jv_rss@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook--000?style=social&logo=microsoft-outlook" /></a> &nbsp;
+<a href="https://www.hackerrank.com/SoldierJVX" alt="HackerRank">
+<img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
