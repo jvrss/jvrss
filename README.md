@@ -12,13 +12,13 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-#### Languages
+#### Linguagens
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-#### Technologies
+#### Tecnologias
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
