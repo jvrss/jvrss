@@ -21,12 +21,12 @@
 #### Tecnologias
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
 ![Mysql](https://img.shields.io/badge/-MySQL-00000F?logo=mysql)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
 ![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
