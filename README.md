@@ -1,14 +1,14 @@
 ### 👨🏻‍💻 &nbsp;Sobre min
 
-💡 &nbsp; Sou Analista Desenvolvedor na Accenture, produzindo softwares com tecnologia Java.\
-🎓 &nbsp; Sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi (2021).
- - Tenho 6 semestres do curso de Sistemas da Informação da UFMS.
- - Tenho formação técnica em Auxiliar de Informática pela ETESP (2014)
+💡 &nbsp; I'm a Developer Analyst at Accenture, producing software with Java technology.\
+🎓 &nbsp; I have a degree in Systems Analysis and Development from Universidade Anhembi Morumbi (2021).
+  - I have 6 semesters of the Information Systems course at UFMS.
+  - I have technical training in Computer Assistant by ETESP (2014)
 
-🌱 &nbsp; Estou aprimorando minhas habilidades nas tecnologias Spring, Cloud e Angular.\
-✍️ &nbsp; No meu tempo livre, vejo animes e jogo. Também continuo aprimorando minhas habilidades.\
-✉️ &nbsp; Meu email para contato é jv_rss@hotmail.com. \
-📄 &nbsp; Você pode ver meu currículo em [Currículo](https://1drv.ms/w/s!AmJ1CpQJCAx5gasFN0UTo8XIEVenhQ?e=lMRxKM) para mais detalhes da minha experiencia profissional.
+🌱 &nbsp; I am improving my skills in Spring, Cloud and Angular technologies.\
+✍️ &nbsp; In my spare time, I watch anime and play games. I also continue to improve my skills.\
+✉️ &nbsp; My contact email is jv_rss@hotmail.com. \
+📄 &nbsp; You can see my resume at [Resume](https://1drv.ms/w/s!AmJ1CpQJCAx5gasFN0UTo8XIEVenhQ?e=lMRxKM) for more details of my professional experience.
 
 ### 🛠 &nbsp;Tech Stack
 
