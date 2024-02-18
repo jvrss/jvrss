@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;Sobre min
 
-💡 &nbsp; I'm a Developer Analyst at Accenture, producing software with Java technology.\
+💡 &nbsp; I'm a Senior Developer Analyst at TCS - Tata Consultancy Services, producing software with Java technology.\
 🎓 &nbsp; I have a degree in Systems Analysis and Development from Universidade Anhembi Morumbi (2021).
   - I have 6 semesters of the Information Systems course at UFMS.
   - I have technical training in Computer Assistant by ETESP (2014)
