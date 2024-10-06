@@ -12,13 +12,13 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-#### Linguagens
+#### Languages
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-#### Tecnologias
+#### Technologies
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Mysql](https://img.shields.io/badge/-MySQL-00000F?logo=mysql)
@@ -37,7 +37,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
-### 📫 &nbsp; Como me contatar:
+### 📫 &nbsp; How to contact me:
 
 <a target="_blank" href="https://www.linkedin.com/in/jvrss/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:jv_rss@hotmail.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook--000?style=social&logo=microsoft-outlook" /></a> &nbsp;
