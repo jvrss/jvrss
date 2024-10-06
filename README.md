@@ -1,4 +1,4 @@
-### 👨🏻‍💻 &nbsp;Sobre min
+### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Software Engineer at Bradesco, producing software with Java technology.\
 🎓 &nbsp; I have a degree in Systems Analysis and Development from Universidade Anhembi Morumbi (2021).
